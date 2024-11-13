@@ -1,6 +1,6 @@
-package com.feeltheboard.bookshelf.data
+package com.feeltheboard.`cc17-3f-bravojrs-act8`.data
 
-import com.feeltheboard.bookshelf.network.BooksApiService
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.network.BooksApiService
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

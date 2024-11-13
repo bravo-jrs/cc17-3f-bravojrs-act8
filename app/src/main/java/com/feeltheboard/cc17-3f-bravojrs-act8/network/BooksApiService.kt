@@ -1,6 +1,6 @@
-package com.feeltheboard.bookshelf.network
+package com.feeltheboard.`cc17-3f-bravojrs-act8`.network
 
-import com.feeltheboard.bookshelf.network.model.Books
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.network.model.Books
 import retrofit2.http.GET
 
 interface BooksApiService {

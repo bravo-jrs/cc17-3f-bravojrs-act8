@@ -1,13 +1,11 @@
-package com.feeltheboard.bookshelf.ui
+package com.feeltheboard.`cc17-3f-bravojrs-act8`.ui
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
-import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
-import com.feeltheboard.bookshelf.data.BooksRepository
-import com.feeltheboard.bookshelf.data.NetworkBooksRepository
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.data.BooksRepository
 import kotlinx.coroutines.launch
 
 class BookShelfViewModel(

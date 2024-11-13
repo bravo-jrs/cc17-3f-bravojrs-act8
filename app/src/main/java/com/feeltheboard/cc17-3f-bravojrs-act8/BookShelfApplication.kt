@@ -1,10 +1,10 @@
-package com.feeltheboard.bookshelf
+package com.feeltheboard.`cc17-3f-bravojrs-act8`
 
 import android.app.Application
 import androidx.compose.runtime.staticCompositionLocalOf
-import com.feeltheboard.bookshelf.data.BookShelfContainer
-import com.feeltheboard.bookshelf.data.BookShelfContainerImpl
-import com.feeltheboard.bookshelf.ui.BookShelfViewModel
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.data.BookShelfContainer
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.data.BookShelfContainerImpl
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.ui.BookShelfViewModel
 
 /** Define a CompositionLocal for the BookShelfViewModel in your BookShelfApplication class. */
 /** 1. A static CompositionLocal providing the [BookShelfViewModel] for the app */

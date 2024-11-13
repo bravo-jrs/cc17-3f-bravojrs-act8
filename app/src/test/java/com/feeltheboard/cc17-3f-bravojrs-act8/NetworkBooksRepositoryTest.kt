@@ -1,8 +1,8 @@
-package com.feeltheboard.bookshelf
+package com.feeltheboard.`cc17-3f-bravojrs-act8`
 
-import com.feeltheboard.bookshelf.data.NetworkBooksRepository
-import com.feeltheboard.bookshelf.fakedata.FakeApiService
-import com.feeltheboard.bookshelf.fakedata.FakeDataSource
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.data.NetworkBooksRepository
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.fakedata.FakeApiService
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.fakedata.FakeDataSource
 import kotlinx.coroutines.test.runTest
 import org.junit.Assert.assertEquals
 import org.junit.Test

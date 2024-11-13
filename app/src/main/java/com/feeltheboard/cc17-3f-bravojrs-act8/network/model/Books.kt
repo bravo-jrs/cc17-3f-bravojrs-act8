@@ -1,4 +1,4 @@
-package com.feeltheboard.bookshelf.network.model
+package com.feeltheboard.`cc17-3f-bravojrs-act8`.network.model
 
 data class Books(
     val items: List<BookItems>

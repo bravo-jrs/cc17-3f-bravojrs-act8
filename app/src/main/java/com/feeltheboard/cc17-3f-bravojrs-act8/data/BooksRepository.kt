@@ -1,7 +1,7 @@
-package com.feeltheboard.bookshelf.data
+package com.feeltheboard.`cc17-3f-bravojrs-act8`.data
 
-import com.feeltheboard.bookshelf.network.BooksApiService
-import com.feeltheboard.bookshelf.network.model.Books
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.network.BooksApiService
+import com.feeltheboard.`cc17-3f-bravojrs-act8`.network.model.Books
 
 interface BooksRepository {
     suspend fun getBooks(): Books
